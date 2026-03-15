@@ -2,11 +2,11 @@
 
 **Current Status:**
 - [x] Streamlit ML app running
-- [x] Repo cloned (empty - private?)
-- [x] Plan approved
+- [x] Main repo uploaded to GitHub ✅ https://github.com/Priyankayenni/Wellness360.git
+- [x] wellness360-ai-glow cloned (has .git - separate repo)
 
-**Steps:**
-- [ ] 1. Add tabs in app.py (ML | Interactive)
-- [ ] 2. Add iframe tab 2
-- [ ] 3. Deploy lovable.ai → update iframe src
+**Next Steps:**
+- [ ] 1. Decide integration: subdir, submodule, or merge repos?
+- [ ] 2. Add tabs in app.py (ML | Interactive)
+- [ ] 3. Add iframe tab for ai-glow if applicable
 - [ ] 4. Test integration
