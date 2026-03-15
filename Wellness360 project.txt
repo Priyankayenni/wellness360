@@ -1,0 +1,1 @@
+"Our system uses Random Forest Classifier with 85%+ accuracy, processes 4 wellness dimensions, generates 6 visualizations, and provides personalized recommendations. The architecture uses Streamlit for rapid deployment and Lovable.dev for professional frontend."

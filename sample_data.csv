@@ -1,0 +1,11 @@
+Employee_ID,Age,Gender,Stress_Level,Sleep_Quality,Mental_Health_Condition,Physical_Activity,Industry,Job_Role
+1,35,Male,High,Poor,Anxiety,daily,Technology,Software Engineer
+2,28,Female,Medium,Good,None,weekly,Healthcare,Nurse
+3,42,Male,Low,Average,Burnout,daily,Finance,Accountant
+4,31,Female,High,Poor,Depression,weekly,Technology,Data Analyst
+5,29,Male,Medium,Good,None,daily,Healthcare,Doctor
+6,38,Female,High,Good,Anxiety,weekly,Finance,Manager
+7,25,Male,Low,Poor,None,daily,Technology,Intern
+8,45,Female,Medium,Average,Burnout,weekly,Healthcare,Admin
+9,33,Male,High,Poor,Depression,daily,Technology,Developer
+10,27,Female,Low,Good,None,weekly,Finance,Analyst
